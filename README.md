@@ -15,9 +15,6 @@ Antes de rodar o projeto, certifique-se de ter instalado:
 - Pacotes necessários:
   ```bash
   pip install --upgrade torch transformers accelerate
-````
-
----
 
 ## 📂 Estrutura do Repositório
 
